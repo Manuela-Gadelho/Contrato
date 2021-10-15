@@ -180,7 +180,8 @@
             <label for="tel"><strong>Telefone</strong></label>
             <input type="number" name="tel" id="tel">
             </div>
-            <br>
+            <br> <br> <br>
+        </br>
             Nota: Não é necessário o preenchimento do quadro acima caso o aluno for maior de idade.
             </fieldset>
 
@@ -239,7 +240,8 @@
     
                         <label for="horario"><strong>Horário escolhido</strong></label>
                         <input type="text" name="horario" id="horario">
-
+<br>
+                    </br>
                         <label for="dia"><strong>Dia da semana</strong></label>
                     <select id="dia" required>
                       <option selected disabled value="">Selecione o dia de aula do aluno</option>
